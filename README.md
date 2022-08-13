@@ -1,2 +1,10 @@
-# setup-node
-Default setup for NodeJS
+# Default Setup
+Default setup for applications NodeJS
+
+## Tecnologies
+- NodeJS
+- TypeScript
+- ExpressJS
+- ESLint (Pattern)
+- Jest (Tests)
+- Babel (Build)
