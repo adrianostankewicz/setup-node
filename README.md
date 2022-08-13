@@ -1,4 +1,4 @@
-# Default Setup
+# Setup NodeJS
 Default setup for applications NodeJS
 
 ## Tecnologies
